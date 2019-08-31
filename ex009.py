@@ -1,0 +1,22 @@
+n= int (input("Numero para Tabuada: "))
+a = n * 1
+b = n * 2
+c = n * 3
+d = n * 4
+e = n * 5
+f = n * 6
+g = n * 7
+h = n * 8
+i = n * 9
+l = n * 10
+
+print ("{} x  1 = {:2} : ".format(n,a))
+print ("{} x  2 = {:2} : ".format(n,b))
+print ("{} x  3 = {:2} : ".format(n,c))
+print ("{} x  4 = {:2} : ".format(n,d))
+print ("{} x  5 = {:2} : ".format(n,e))
+print ("{} x  6 = {:2} : ".format(n,f))
+print ("{} x  7 = {:2} : ".format(n,g))
+print ("{} x  8 = {:2} : ".format(n,h))
+print ("{} x  9 = {:2} : ".format(n,i))
+print("{}x  10 = {} : ".format(n,l))
